@@ -1,7 +1,7 @@
 //
 //  AdjustmentsSelectorView.swift
 //  CollageBuilder
-//
+////
 //
 
 import SwiftUI
